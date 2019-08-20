@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "2c10463c-99e5-47f3-b996-f056bbb23df0",
+            "Value": {
+                "id": "63d00eef-e3ab-4126-985d-a996632daa9a",
+                "resourcePath": "objects\/obj_shot\/obj_shot.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "30df02a7-6e0d-4c82-b5bf-af3da7ef71ee",
             "Value": {
                 "id": "6bc99b21-f9b2-45fe-bd90-6926a4c528d3",
@@ -191,6 +199,22 @@
             }
         },
         {
+            "Key": "c4922b6e-23c8-4ca6-be64-15335128ee58",
+            "Value": {
+                "id": "80b37a02-1e83-460a-a4bd-a5f5e0c24ac0",
+                "resourcePath": "sprites\/spr_explosion\/spr_explosion.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c7b9e64a-ea6f-4a0a-9115-8b3564c0d7e8",
+            "Value": {
+                "id": "b4b80dad-1b18-4b95-9604-d62f57c589d5",
+                "resourcePath": "sounds\/snd_shoot\/snd_shoot.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c87c2cc1-e5e2-4131-ae2c-572a2152336c",
             "Value": {
                 "id": "1117f586-f6d8-4061-b730-c59c7be4009d",
@@ -223,6 +247,14 @@
             }
         },
         {
+            "Key": "d97a6c85-1e5f-437d-8a1e-4f75a5c39430",
+            "Value": {
+                "id": "c4c4dc08-bf8e-41de-873e-5e8daf0f8c57",
+                "resourcePath": "sounds\/snd_explosion\/snd_explosion.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "de89b91b-baed-4beb-8451-618fbb485fc8",
             "Value": {
                 "id": "3e103cd6-cdcd-401f-a5ed-606829d8eb85",
@@ -252,6 +284,14 @@
                 "id": "b4f83936-07d7-4680-bae0-cdefb01a298a",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f9c969d3-ba0f-443d-8e3f-d5cd79d9cf5c",
+            "Value": {
+                "id": "8a7e22b7-0582-41b9-ab02-735bccdfcf00",
+                "resourcePath": "sprites\/spr_shot\/spr_shot.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
