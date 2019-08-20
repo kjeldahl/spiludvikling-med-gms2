@@ -1,0 +1,1 @@
+/// @description Initialization of spaceship
